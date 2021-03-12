@@ -1,11 +1,11 @@
-const numbers = [2, 1, 3, 4, 1];
+const numbers = [0, 0];
 function solution(num) {
   var answer = [numbers[0] + numbers[1]];
   for (let i = 0; i < numbers.length; i++) {
     for (let j = 0; j < numbers.length; j++) {
       if (i != j) {
         const sum = numbers[i] + numbers[j];
-        if (answer.find((n) => n == sum)) {
+        if (answer.find((n) => n == sum) || sum == 0) {
           continue;
         }
         for (let k = 0; k < answer.length; k++) {

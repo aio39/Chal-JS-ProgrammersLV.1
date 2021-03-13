@@ -7,3 +7,7 @@
 효율성 실패
 
 ## 3. [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)
+
+## 4. [시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)
+
+기본 테스트 케이스만 통과

@@ -66,6 +66,8 @@ function solution(a, b) {
   // 테스트 4 〉	통과 (4.76ms, 32MB)
   // 테스트 5 〉	통과 (3.55ms, 32MB)
 
+
+   # 작성 중 코드 , 작동 안함 
   const split = (arr1, arr2) => {
     const alphabet = [...'abcdefghijklmnopqrstuvwxyz'];
     arr1.sort(); // 알파벳 순으로 정렬

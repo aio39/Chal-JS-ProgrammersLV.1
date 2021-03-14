@@ -12,4 +12,6 @@
 
 기본 테스트 케이스만 통과
 
-## 5. [직사각형 별찍기]](https://programmers.co.kr/learn/courses/30/lessons/12969)
+## 5. [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+
+## 6. [서울에서 김서방찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)

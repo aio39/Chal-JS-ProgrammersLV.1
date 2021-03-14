@@ -15,3 +15,5 @@
 ## 5. [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
 
 ## 6. [서울에서 김서방찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
+
+## 7. [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)

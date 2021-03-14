@@ -17,3 +17,5 @@
 ## 6. [서울에서 김서방찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)
 
 ## 7. [문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)
+
+## 8. [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)

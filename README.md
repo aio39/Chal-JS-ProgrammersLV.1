@@ -21,3 +21,5 @@
 ## 8. [문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)
 
 ## 9. [폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)
+
+## 10. [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)

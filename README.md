@@ -25,3 +25,5 @@
 ## 10. [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 ## 11. [자연수를 뒤짚어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932link)
+
+## 12. [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)

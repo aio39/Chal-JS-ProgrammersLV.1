@@ -33,3 +33,5 @@
 ## 14. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 
 ## 15. [수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)
+
+## 16. [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903link)

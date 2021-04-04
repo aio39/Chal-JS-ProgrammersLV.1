@@ -37,3 +37,5 @@
 ## 16. [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903link)
 
 ## 17. [3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)
+
+## 18. [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
